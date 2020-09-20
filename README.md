@@ -1,6 +1,6 @@
 <h2>Welcome Hacker !!! <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/source.gif" width="50"></h2>
 <p>
-  <img width="400" align='right' src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif">
+  <img width="300" align='right' src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif">
 </p>
 
 **Languages**

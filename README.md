@@ -21,7 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
 ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
  
-<img src="https://github-readme-stats.vercel.app/api?username=Sakerini&hide=stars&show_icons=true&theme=dracula&line_height=32">
+<img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dracula&line_height=32">
 
  
  ---

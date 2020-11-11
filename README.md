@@ -1,4 +1,4 @@
-<h2>Welcome Hacker !!! <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/source.gif" width="50"></h2>
+<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>
 <p>
   <img width="300" align='right' src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif">
 </p>
@@ -21,7 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
 ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
  
-<img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dracula&line_height=32">
+<img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=prussian&line_height=32">
 
  
  ---

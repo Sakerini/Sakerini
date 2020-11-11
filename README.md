@@ -20,7 +20,7 @@
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=prussian&line_height=32">
 </p>
-<img src="https://giffiles.alphacoders.com/350/35068.gif">
+<img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif">
 
 
  

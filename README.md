@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <img width="350" height="350" align='right' src="https://yt3.ggpht.com/a/AATXAJxr1rk21V9cySafleWGI8cS_bWE0L74rzk7UA=s900-c-k-c0xffffffff-no-rj-mo">
+  <img width="300" height="300" align='right' src="https://yt3.ggpht.com/a/AATXAJxr1rk21V9cySafleWGI8cS_bWE0L74rzk7UA=s900-c-k-c0xffffffff-no-rj-mo">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
@@ -22,7 +22,7 @@
   <img width="250" height="250" align='right' src="http://vkclub.su/_data/stickers/lyubimoe_leto/sticker_vk_lyubimoe_leto_040.png">
 
 </p>
-<img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif">
+<!--img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif"-->
 
 
  

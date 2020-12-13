@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <img width="450" height="450" align='right' src="https://yt3.ggpht.com/a/AATXAJxr1rk21V9cySafleWGI8cS_bWE0L74rzk7UA=s900-c-k-c0xffffffff-no-rj-mo">
+  <img width="400" height="400" align='right' src="https://yt3.ggpht.com/a/AATXAJxr1rk21V9cySafleWGI8cS_bWE0L74rzk7UA=s900-c-k-c0xffffffff-no-rj-mo">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)

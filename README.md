@@ -19,6 +19,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=prussian&line_height=32">
+  <img width="250" height="250" align='right' src="http://vkclub.su/_data/stickers/lyubimoe_leto/sticker_vk_lyubimoe_leto_040.png">
+
 </p>
 <img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif">
 

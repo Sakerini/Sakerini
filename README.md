@@ -20,7 +20,7 @@
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
   <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=default&line_height=32">
-  <img width="250" height="250" align='right' src="http://vkclub.su/_data/stickers/lyubimoe_leto/sticker_vk_lyubimoe_leto_040.png">
+  <img width="250" height="250" align='right' src="https://stickergrad.ru/wp-content/uploads/2019/09/14248.png">
 
 </p>
 <!--img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif"-->

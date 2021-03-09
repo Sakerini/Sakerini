@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <!--img width="350" height="275" align='right' src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png"-->
+  <img width="375" height="475" align='right' src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
@@ -19,11 +19,14 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32)
+
 </p>
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32" width="500" />
-  <img src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240" width="300" height="500" />
-</p>
+<!--p float="left">
+  <img src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png" width="500" />
+</p-->
+<img src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240" align='right' width="300" height="500" />
 <img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/012/025/639/large/matt-taylor-wrecking-ball-screenshot-04.jpg?1532625681">
 
 

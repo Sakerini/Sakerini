@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <img width="350" height="300" align='right' src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png">
+  <img width="350" height="275" align='right' src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)

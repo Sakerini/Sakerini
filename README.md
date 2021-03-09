@@ -26,8 +26,7 @@
 <!--p float="left">
   <img src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png" width="500" />
 </p-->
-<img src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240" align='right' width="300" height="500" />
-<img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/012/025/639/large/matt-taylor-wrecking-ball-screenshot-04.jpg?1532625681">
+<img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/028/562/281/large/jiang-haiyang-.jpg?1594825625">
 
 
  

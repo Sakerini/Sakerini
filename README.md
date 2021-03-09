@@ -20,8 +20,10 @@
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
   <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32">
-  <img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/012/025/639/large/matt-taylor-wrecking-ball-screenshot-04.jpg?1532625681">
+  <img width="400" height="325" align='right' src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png">
+
 </p>
+<img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/012/025/639/large/matt-taylor-wrecking-ball-screenshot-04.jpg?1532625681">
 
 
  

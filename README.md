@@ -19,12 +19,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32">
 </p>
-
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32" width="600" />
-  <img src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32" width="500" />
+  <img src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240" width="300" height="500" />
 </p>
 <img width="1000" src="https://cdnb.artstation.com/p/assets/images/images/012/025/639/large/matt-taylor-wrecking-ball-screenshot-04.jpg?1532625681">
 

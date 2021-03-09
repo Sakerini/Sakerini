@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <img width="350" height="350" align='right' src="https://yt3.ggpht.com/a/AATXAJxr1rk21V9cySafleWGI8cS_bWE0L74rzk7UA=s900-c-k-c0xffffffff-no-rj-mo">
+  <img width="350" height="350" align='right' src="https://img00.deviantart.net/09c7/i/2018/214/8/2/hammond_wrecking_ball__overwatch__by_gameasertm-dcj22xw.png">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
@@ -19,11 +19,11 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=default&line_height=32">
-  <img width="250" height="250" align='right' src="https://stickergrad.ru/wp-content/uploads/2019/09/14248.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32">
+  ![Alt Text](https://media.giphy.com/media/3McqBua6YC9ZfqOdRZ/source.gif)
 
 </p>
-<!--img width="1000" src="https://giffiles.alphacoders.com/131/131949.gif"-->
+<img width="1000" src="https://media.giphy.com/media/3McqBua6YC9ZfqOdRZ/giphy.gif">
 
 
  

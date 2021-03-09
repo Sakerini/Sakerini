@@ -1,6 +1,6 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
-  <img width="375" height="475" align='right' src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240">
+  <img width="300" height="475" align='right' src="https://cdnb.artstation.com/p/assets/images/images/012/934/861/large/stephanie-aishah-hammond-smol2.jpg?1537267240">
   <h1>Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)

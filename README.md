@@ -20,7 +20,7 @@
   ![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
   ![SQL](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dark&line_height=32)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Sakerini&show_icons=true&theme=dracula&line_height=32)
 
 </p>
 <!--p float="left">

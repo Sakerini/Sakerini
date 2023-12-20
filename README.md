@@ -1,7 +1,7 @@
 <!--<h2><font color="#006699"> Welcome Hero !!! <img src="https://media.giphy.com/media/TkDhMiJgRJPIjcM483/giphy.gif" width="75"></h2>-->
 <p>
   <img width="300" height="475" align='right' src="knuckles1.jpg">
-  <h1>Languages</h1>
+  <h1 style="color: red">Languages</h1>
   
   ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
@@ -10,7 +10,7 @@
   ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)
   ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
   
-  <h1>Technologies</h1>
+  <h1 style="color: red">Technologies</h1>
 
   ![Spring](https://img.shields.io/badge/-Spring-000?style=flat&logo=spring&logoColor=6DB33F)
   ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
